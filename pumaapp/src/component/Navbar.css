@@ -1,0 +1,13 @@
+.navbar {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 40px; /* Adjust based on your design */
+    background-color:#8a7350; /* Example background color */
+    color: white; /* Example text color */
+  }
+  
+  .navbar-center {
+    font-size: 20px; /* Adjust based on your design */
+  }
+  
